@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ## Run App
 python app.py
 
-The application should now be accessible at http://localhost:5000/
+The application should now be accessible at http://0.0.0.0:8080/
 
 ## Usage
 
